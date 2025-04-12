@@ -14,13 +14,6 @@ This project is a **React-based clone** of the landing page from Thirty Six Stud
 ![Screenshot 1](public/Screenshot1.png)
 ![Screenshot 2](public/Screenshot2.png)
 
-## 🎥 Demo Video
-
-<video width="100%" controls>
-  <source src="public/Screencast.webm" type="video/webm">
-  Your browser does not support the video tag.
-</video>
-
 ## 📁 Folder Structure (Simplified)
 
 ```
